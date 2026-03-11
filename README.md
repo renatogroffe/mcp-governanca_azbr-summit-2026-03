@@ -3,4 +3,5 @@
 Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem".
 
 ## Referências
+-  Model Context Protocol (MCP): https://github.com/modelcontextprotocol
 - Microsoft Agent Framework: https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-csharp
