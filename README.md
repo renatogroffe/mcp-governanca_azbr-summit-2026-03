@@ -22,6 +22,10 @@ Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra real
 - Azure Kubernetes Service: https://learn.microsoft.com/en-us/azure/aks/
 - Azure Container Registry: https://learn.microsoft.com/en-us/azure/container-registry/
 - Docker MCP Catalog: https://hub.docker.com/mcp
+- Grafana GROT Academy (diversos cursos gratuitos): https://learn.grafana.com/
 - Azure DevOps: https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
+- Azure Monitor: https://learn.microsoft.com/en-us/azure/azure-monitor/
+- Application Insights: https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+- Azure Log Analytics: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview?tabs=simple
 - GitHub Actions: https://docs.github.com/en/actions
 - Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
