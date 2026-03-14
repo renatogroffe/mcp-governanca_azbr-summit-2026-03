@@ -11,6 +11,7 @@ Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra real
 - MCP Server Simulação de Cotações: https://github.com/renatogroffe/aspnetcore10-mcp-otel-appinsights-redis_simulacaocotacoes
 - Console App para persistência de Cotações no Redis: https://github.com/renatogroffe/dotnet10-consoleapp-redis_simulacaocotacoes
 - Console App com chat consultando o MCP Server de Cotações: https://github.com/renatogroffe/dotnet10-agent-mcp-otel-azureappinsights_consultacotacoes
+- Pipeline para testes do MCP Server: https://github.com/renatogroffe/k6-mcps-tests-http-azdevops-pipelines
 
 ## Referências
 - Model Context Protocol (MCP): https://github.com/modelcontextprotocol
