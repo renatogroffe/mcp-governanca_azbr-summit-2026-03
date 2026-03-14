@@ -19,3 +19,4 @@ Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra real
 - Docker MCP Catalog: https://hub.docker.com/mcp
 - Azure DevOps: https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
 - GitHub Actions: https://docs.github.com/en/actions
+- Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
