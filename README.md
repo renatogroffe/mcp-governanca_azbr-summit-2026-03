@@ -12,3 +12,6 @@ Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem".
 - OpenTelemetry: https://opentelemetry.io/
 - Microsoft Agent Framework: https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-csharp
 - MCP Servers x Azure API Management: https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview
+- Azure App Service: https://learn.microsoft.com/en-us/azure/app-service/
+- Azure Container Apps: https://learn.microsoft.com/en-us/azure/container-apps/
+- Azure Kubernetes Service: https://learn.microsoft.com/en-us/azure/aks/
