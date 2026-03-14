@@ -17,3 +17,5 @@ Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem".
 - Azure Kubernetes Service: https://learn.microsoft.com/en-us/azure/aks/
 - Azure Container Registry: https://learn.microsoft.com/en-us/azure/container-registry/
 - Docker MCP Catalog: https://hub.docker.com/mcp
+- Azure DevOps: https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
+- GitHub Actions: https://docs.github.com/en/actions
