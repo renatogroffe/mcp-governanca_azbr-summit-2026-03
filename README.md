@@ -1,6 +1,6 @@
 # mcp-governanca_azbr-summit-2026-03
 
-Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem".
+Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem". Palestra realizada durante o AZBR Summit em 14/03/2026.
 
 ## Redes sociais:
 - LinkedIn: https://www.linkedin.com/in/renatogroffe/
