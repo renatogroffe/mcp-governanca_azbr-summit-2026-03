@@ -3,11 +3,12 @@
 Conteúdos da apresentação "Desenvolvendo MCP Servers na nuvem".
 
 ## Redes sociais:
-- LinkedIn:
-- YouTube - Canal .NET
-- Blog Medium: 
+- LinkedIn: https://www.linkedin.com/in/renatogroffe/
+- YouTube - Canal .NET: https://www.youtube.com/canaldotnet
+- Blog Medium: https://www.youtube.com/canaldotnet
 
 ## Referências
 - Model Context Protocol (MCP): https://github.com/modelcontextprotocol
 - OpenTelemetry: https://opentelemetry.io/
 - Microsoft Agent Framework: https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-csharp
+- MCP Servers x Azure API Management: https://learn.microsoft.com/en-us/azure/api-management/mcp-server-overview
